@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "action",
+          "type": "OnOff"
+        }
+      ],
+      "intent": "SwitchIntent"
+    }
+  ]
+}

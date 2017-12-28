@@ -1,0 +1,8 @@
+SwitchIntent switch {onoff}
+SwitchIntent turn {onoff}
+SwitchIntent switch lights {onoff}
+SwitchIntent turn lights {onoff}
+SwitchIntent to switch {onoff}
+SwitchIntent to turn {onoff}
+SwitchIntent to switch lights {onoff}
+SwitchIntent to turn lights {onoff}
